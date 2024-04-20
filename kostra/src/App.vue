@@ -6,6 +6,7 @@ import { RouterLink, RouterView } from 'vue-router'
   <header>
       <nav>
         <RouterLink to="/">Digitální skripta se simulátory</RouterLink>
+        <routerLink to="/examples">Ukázky výukových simulátorů</routerLink>
         <RouterLink to="/about">O našich skriptech</RouterLink>
       </nav>
   </header>
